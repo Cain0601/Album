@@ -18,11 +18,15 @@ h3 {
   background-color: palevioletred;
   color: black;
   font-family: Arial, Helvetica, sans-serif;
+  transition: 0.5s;
 }
 .o:hover {
   color: red;
   font-size: large;
 }
 .o:visited {
-  color: rgb(105, 102, 102);
+  color: rgb(175, 169, 169);
+}
+.o:link{
+  color: black;
 }
